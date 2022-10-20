@@ -1,0 +1,21 @@
+{
+  "name": "nodeudemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemalozer23/node-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemalozer23/node-udemy/issues"
+  },
+  "homepage": "https://github.com/kemalozer23/node-udemy#readme"
+}
