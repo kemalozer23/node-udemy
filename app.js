@@ -23,7 +23,7 @@ app.use("/feed", feedRoutes);
 
 mongoose
   .connect(
-    "mongodb+srv://kemalozer23:Mars1323.@cluster0.bx7vkzv.mongodb.net/messages?retryWrites=true&w=majority"
+  // Connection String
   )
   .then((result) => {
     app.listen(8080);
